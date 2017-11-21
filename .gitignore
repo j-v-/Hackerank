@@ -2,6 +2,7 @@
 *.class
 *.iml
 *Test.java
+!HackerrankTest.java
 
 # Log file
 *.log
